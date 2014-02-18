@@ -1,0 +1,17 @@
+header
+{
+    display : none !important;
+}
+
+input.medium
+{
+    width:100 !important
+}
+
+.email-id #Field1
+{
+    background:#000;
+    border-radius:3px;
+    color:light-gray;
+    font-size:12px;
+}
